@@ -1,0 +1,16 @@
+body
+header{
+    background-image: url("../img/bg-hero.jpg");
+    background-size:  cover;
+    background-repeat: no-repeat;
+    background-position:  left;
+}
+.card-img-top {
+    width: 100%;
+    min-width: 15vw;
+    object-fit: cover;
+}
+
+.black{
+    background-color: black;
+}
